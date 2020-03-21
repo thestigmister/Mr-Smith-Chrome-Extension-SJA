@@ -46,18 +46,3 @@ body{
 #btnS2[type = "button"]:hover{
   background: green;
 }
-
-#audioPly{
-  border:0;
-  background: none; 
-  display: block;
-  margin: 1px auto;
-  text-align: center; 
-  border: 0px solid purple;
-  width: 300px; 
-  outline: none;
-  color: blue;
-  border-radius: 50px;
-  transition: 0.25s;
-  visibility: hidden
-}
