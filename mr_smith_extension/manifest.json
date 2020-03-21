@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+
+  "name": "Mr Smith, I need you",
+  "description": "Mr Smith, I need you",
+  "version": "2.0",
+
+  "browser_action": {
+   "default_icon": "iconv2.png",
+   "default_popup": "popup.html",
+   "default_title": "Mr Smith, I need you!"
+  },
+    "icons": {
+      "128": "iconv2.png",
+      "16": "iconv2.png",
+      "48": "iconv2.png"
+   },
+  
+  "permissions": [
+   "activeTab"
+   ]
+}
